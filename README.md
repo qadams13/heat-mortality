@@ -1,2 +1,3 @@
 # heat-mortality
-Calculating excess heat related mortality across the US.
+Calculating excess summer heat related mortality across the US.
+
